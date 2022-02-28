@@ -1,0 +1,5 @@
+user = "root"
+host = "localhost"
+password = "yourpassword"
+database = "Library"
+auth_plugin = "mysql_native_password"
